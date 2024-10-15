@@ -1,2 +1,2 @@
 # PrimeFacStart
-Start code for a prime factorizatiopn program in C++
+Start code for a prime factorization program in C++
